@@ -1,0 +1,18 @@
+﻿<Window x:Class="TesteWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TesteWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Deletar" Name="Deletar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="Deletar_Click" />
+        <Button Content="Atualizar" Name="Atualizar" HorizontalAlignment="Left" Margin="194,10,0,0" VerticalAlignment="Top" Click="Atualizar_Click"  />
+        <Button Content="Consultar" Name="Consultar" HorizontalAlignment="Left" Margin="122,10,0,0" VerticalAlignment="Top" Click="Consultar_Click"  />
+        <Button Content="Incluir" Name="Incluir"  HorizontalAlignment="Left" Margin="69,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.727,0.764" Click="Incluir_Click"/>
+        <Button Content="ConsultaTodos" Name="ConsultaTodos" HorizontalAlignment="Left" Margin="264,10,0,0" VerticalAlignment="Top" Click="ConsultaTodos_Click"/>
+
+
+    </Grid>
+</Window>

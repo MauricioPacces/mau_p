@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4de0f295-d684-4990-8015-637926f33935": {
+      "ProjectGuid": "4de0f295-d684-4990-8015-637926f33935",
+      "DisplayName": "TesteWPF",
+      "ColorIndex": 0
+    },
+    "6039946c-e30c-44fb-8dd8-89ba1ca1909c": {
+      "ProjectGuid": "6039946c-e30c-44fb-8dd8-89ba1ca1909c",
+      "DisplayName": "RegradeNegocio",
+      "ColorIndex": 1
+    },
+    "950a8647-80cd-45b3-8860-c9f0e1a04b67": {
+      "ProjectGuid": "950a8647-80cd-45b3-8860-c9f0e1a04b67",
+      "DisplayName": "Banco",
+      "ColorIndex": 2
+    },
+    "f85b14c0-ef2c-434c-bd4f-ca5cc4bad472": {
+      "ProjectGuid": "f85b14c0-ef2c-434c-bd4f-ca5cc4bad472",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "853027be-11e2-44b4-9a84-0d5cb440dee6": {
+      "ProjectGuid": "853027be-11e2-44b4-9a84-0d5cb440dee6",
+      "DisplayName": "WebApi",
+      "ColorIndex": 4
+    },
+    "3bab674f-4f8e-4687-b4e3-68cd33712778": {
+      "ProjectGuid": "3bab674f-4f8e-4687-b4e3-68cd33712778",
+      "DisplayName": "WebApis",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
